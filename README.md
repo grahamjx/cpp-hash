@@ -9,7 +9,7 @@ Simply run the compiled executable from any unix-based terminal
 
 ```bash
   $> cd /path/to/your-project-folder
-  $> ./cs-rentaldb
+  $> ./cs-has
   ```
 Of course if you want to compile it from source a simple ```$> make run ``` from the source directory will do the trick.
 
